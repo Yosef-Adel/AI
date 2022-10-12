@@ -2,9 +2,7 @@
 # Name:     graphics
 # Purpose:  Visualization of the maze and solution
 #
-# Author:   Rula Khayrallah
-#
-# Copyright ©  Rula Khayrallah
+# Author:   
 # ----------------------------------------------------------------------
 """
 Class definition to visualize the quest
