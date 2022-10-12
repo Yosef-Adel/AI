@@ -2,9 +2,7 @@
 # Name:    spartanquest
 # Purpose: Illustrate advantages and limitations of search algorithms
 #
-# Author:   Rula Khayrallah
-#
-# Copyright ©  Rula Khayrallah
+# Author:   
 # ----------------------------------------------------------------------
 """
 Main program to guide Sammy the Spartan on a quest within a given maze
