@@ -2,9 +2,7 @@
 # Name:     solve
 # Purpose:  homework 5
 #
-# Author:   Rula Khayrallah
-#
-# Copyright ©  Rula Khayrallah, 2019
+# Author:   
 # ----------------------------------------------------------------------
 """
 Main module to read and solve a Sudoku puzzle.
